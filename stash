@@ -1,0 +1,7 @@
+Used to hide the files in a temporary area ~ staging area
+
+whic haquires temporary space and is not visible in the other branch
+
+once we come to the same branch we can recall it by the command as below
+
+"git stash pop" "git restore HEAD"
